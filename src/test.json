@@ -1,0 +1,226 @@
+[
+  [
+    {
+      type: "MEN'S RANKING",
+      teamId: '799',
+      teamName: 'Jamaica',
+      continent: 'Middle and North America',
+      rank: 58,
+      rankChange: -5,
+      score: 1410,
+      scoreChange: 42,
+      updateDate: '2023-7',
+      matchHistory: [Array],
+      groupPhaseScore: 9
+    },
+    {
+      type: "MEN'S RANKING",
+      teamId: '637',
+      teamName: 'Poland',
+      continent: 'Europe',
+      rank: 26,
+      rankChange: 0,
+      score: 1537,
+      scoreChange: 0,
+      updateDate: '2023-7',
+      matchHistory: [Array],
+      groupPhaseScore: 4
+    }
+  ],
+  [
+    {
+      type: "MEN'S RANKING",
+      teamId: '815',
+      teamName: 'Senegal',
+      continent: 'Africa',
+      rank: 18,
+      rankChange: 0,
+      score: 1613,
+      scoreChange: 0,
+      updateDate: '2023-7',
+      matchHistory: [Array],
+      groupPhaseScore: 2
+    },
+    {
+      type: "MEN'S RANKING",
+      teamId: '874',
+      teamName: 'Iraq',
+      continent: 'Asia',
+      rank: 70,
+      rankChange: 0,
+      score: 1345,
+      scoreChange: 0,
+      updateDate: '2023-7',
+      matchHistory: [Array],
+      groupPhaseScore: 4
+    }
+  ],
+  [
+    {
+      type: "MEN'S RANKING",
+      teamId: '645',
+      teamName: 'Belgium',
+      continent: 'Europe',
+      rank: 5,
+      rankChange: 0,
+      score: 1789,
+      scoreChange: 0,
+      updateDate: '2023-7',
+      matchHistory: [Array],
+      groupPhaseScore: 6
+    },
+    {
+      type: "MEN'S RANKING",
+      teamId: '767',
+      teamName: 'Uruguay',
+      continent: 'South America',
+      rank: 16,
+      rankChange: 0,
+      score: 1633,
+      scoreChange: 0,
+      updateDate: '2023-7',
+      matchHistory: [Array],
+      groupPhaseScore: 6
+    }
+  ],
+  [
+    {
+      type: "MEN'S RANKING",
+      teamId: '780',
+      teamName: 'Chile',
+      continent: 'South America',
+      rank: 32,
+      rankChange: 0,
+      score: 1511,
+      scoreChange: 0,
+      updateDate: '2023-7',
+      matchHistory: [Array],
+      groupPhaseScore: 6
+    },
+    {
+      type: "MEN'S RANKING",
+      teamId: '649',
+      teamName: 'France',
+      continent: 'Europe',
+      rank: 2,
+      rankChange: 0,
+      score: 1844,
+      scoreChange: 0,
+      updateDate: '2023-7',
+      matchHistory: [Array],
+      groupPhaseScore: 6
+    }
+  ],
+  [
+    {
+      type: "MEN'S RANKING",
+      teamId: '2363',
+      teamName: 'New Zealand',
+      continent: 'Oceania',
+      rank: 103,
+      rankChange: 0,
+      score: 1199,
+      scoreChange: 0,
+      updateDate: '2023-7',
+      matchHistory: [Array],
+      groupPhaseScore: 7
+    },
+    {
+      type: "MEN'S RANKING",
+      teamId: '904',
+      teamName: 'Qatar',
+      continent: 'Asia',
+      rank: 59,
+      rankChange: 1,
+      score: 1396,
+      scoreChange: 2,
+      updateDate: '2023-7',
+      matchHistory: [Array],
+      groupPhaseScore: 3
+    }
+  ],
+  [
+    {
+      type: "MEN'S RANKING",
+      teamId: '647',
+      teamName: 'Austria',
+      continent: 'Europe',
+      rank: 29,
+      rankChange: 0,
+      score: 1528,
+      scoreChange: 0,
+      updateDate: '2023-7',
+      matchHistory: [Array],
+      groupPhaseScore: 5
+    },
+    {
+      type: "MEN'S RANKING",
+      teamId: '772',
+      teamName: 'Spain',
+      continent: 'Europe',
+      rank: 10,
+      rankChange: 0,
+      score: 1703,
+      scoreChange: 0,
+      updateDate: '2023-7',
+      matchHistory: [Array],
+      groupPhaseScore: 7
+    }
+  ],
+  [
+    {
+      type: "MEN'S RANKING",
+      teamId: '903',
+      teamName: 'Japan',
+      continent: 'Asia',
+      rank: 20,
+      rankChange: 0,
+      score: 1596,
+      scoreChange: 0,
+      updateDate: '2023-7',
+      matchHistory: [Array],
+      groupPhaseScore: 4
+    },
+    {
+      type: "MEN'S RANKING",
+      teamId: '789',
+      teamName: 'Nigeria',
+      continent: 'Africa',
+      rank: 39,
+      rankChange: 0,
+      score: 1486,
+      scoreChange: 0,
+      updateDate: '2023-7',
+      matchHistory: [Array],
+      groupPhaseScore: 3
+    }
+  ],
+  [
+    {
+      type: "MEN'S RANKING",
+      teamId: '775',
+      teamName: 'Colombia',
+      continent: 'South America',
+      rank: 17,
+      rankChange: 0,
+      score: 1625,
+      scoreChange: 0,
+      updateDate: '2023-7',
+      matchHistory: [Array],
+      groupPhaseScore: 4
+    },
+    {
+      type: "MEN'S RANKING",
+      teamId: '771',
+      teamName: 'Italy',
+      continent: 'Europe',
+      rank: 8,
+      rankChange: 0,
+      score: 1727,
+      scoreChange: 0,
+      updateDate: '2023-7',
+      matchHistory: [Array],
+      groupPhaseScore: 7
+    }
+  ]
+]
